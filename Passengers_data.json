@@ -1,0 +1,14 @@
+{"passengers data" :{
+"7-5-2024":{
+"seatno 1":{
+"1":{"Name":"John sina","Source":"Nim","Destination":"S.ner","Status":"Pending"},
+ "2":{"Name":"Ravi","Source":"G.wadi","Destination":"Sinar","Status":"Pending"}
+},
+
+"seatno 2":{
+"1":{"Name":"John singh","Source":"Nim","Destination":"Sinar","Status":"Pending"},
+ "2":{"Name":"Remesh","Source":"Nim","Destination":"Nsk","Status":"Pending"}
+}
+}
+}
+}
