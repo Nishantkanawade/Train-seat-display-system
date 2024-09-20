@@ -1,0 +1,10 @@
+{
+    "station_list":{"1":{"stname":"Nim","status":"Pending"},
+                    "2":{"stname":"D.fal","status":"Pending"},
+                    "3":{"stname":"S.ner","status":"Pending"},
+                    "4":{"stname":"G.wadi","status":"Pending"},
+                    "5":{"stname":"Sinar","status":"Pending"},
+                    "6":{"stname":"Dodi","status":"Pending"},
+                    "7":{"stname":"plse","status":"Pending"},
+                    "8":{"stname":"Nsk","status":"Pending"}}
+}
